@@ -1,0 +1,5 @@
+{
+	"array":[
+		{"index":"0", "maxHp":100, "moveSpeed":3.5, "damage":5, "attackDelay":0.15}
+	]
+}

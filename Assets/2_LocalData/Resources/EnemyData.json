@@ -1,0 +1,5 @@
+{
+	"array":[
+		{"index":"0", "name":"Enemy01", "maxHp":30, "damage":10, "moveSpeed":2, "dropScore":15}
+	]
+}

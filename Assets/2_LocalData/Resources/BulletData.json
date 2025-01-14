@@ -1,0 +1,22 @@
+{
+  "array": [
+    {
+      "index": "0",
+      "name": "SmallBullet",
+      "damage": 5,
+      "moveSpeed": 15
+    },
+    {
+      "index": "1",
+      "name": "MediumBullet",
+      "damage": 7,
+      "moveSpeed": 15
+    },
+    {
+      "index": "2",
+      "name": "BigBullet",
+      "damage": 9,
+      "moveSpeed": 15
+    }
+  ]
+}
