@@ -34,7 +34,7 @@ public partial class SoundEffect : MonoBehaviour // Initialize
         SetIsPlay();
     }
 }
-public partial class SoundEffect : MonoBehaviour // 
+public partial class SoundEffect : MonoBehaviour // property
 {
     private void SetIsPlay()
     {
@@ -44,5 +44,12 @@ public partial class SoundEffect : MonoBehaviour //
     {
         if (isPlay)
             audioSources[(int)clipName].Play();
+    }
+}
+public partial class SoundEffect : MonoBehaviour // property
+{
+    private void GitTestMethod()
+    {
+
     }
 }
